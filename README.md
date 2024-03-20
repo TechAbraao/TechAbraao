@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou Abraão Santos, e é um prazer recebê-lo(a) em meu perfil! 😁✌️
 
 <!--
 **TechAbraao/TechAbraao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
