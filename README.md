@@ -29,7 +29,6 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 Sou um desenvolvedor full-stack júnior, apaixonado por <b>tecnologia.</b> 」
     <br>
     <br>
@@ -37,15 +36,13 @@
 </p>
 
 <p align="center">
- <a href="https://alsiam.com" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
- </a>
  <a href="https://www.linkedin.com/in/abraaosvs/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
  <!-- <a href="https://dev.to/alsiam" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiam" />
- <a href="https://instagram.com/_alsiam" target="_blank">
+ </a> -->
+ <a href="https://www.instagram.com/abraaosvs/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
 </p>
