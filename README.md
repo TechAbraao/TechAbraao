@@ -30,7 +30,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 Sou um desenvolvedor full-stack júnior, apaixonado por <b>tecnologia.</b> 」
     <br>
     <br>
   </samp>
