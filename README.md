@@ -21,8 +21,8 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Al Siam</a></b>
+        <samp>&gt; Olá, sou Abraão Santos,
+                <b><a target="_blank" href="https://alsiam.com">e é um prazer recebê-lo(a) em meu perfil! 😁✌️</a></b>
         </samp>
 </h3>
 
