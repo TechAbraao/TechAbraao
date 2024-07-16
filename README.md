@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=6a0dad&textBg=false&animation=fadeIn&fontAlign=55&fontSize=40&reversal=false&fontAlignY=35&section=header&fontColor=ffffff"/>
 <div>
 <h1 align="center">Prazer, sou o Abraão V. S. Santos 👨‍💻</h1>
 </div>
@@ -36,4 +36,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=6a0dad&textBg=false&animation=fadeIn&fontAlign=55&fontSize=40&reversal=false&fontAlignY=35&section=footer&fontColor=ffffff"/>
