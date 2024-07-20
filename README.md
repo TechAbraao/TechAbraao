@@ -9,7 +9,7 @@
   <br>
   <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma - FATEC Zona Leste</p>
   <p>✔️ Formado em Desenvolvimento Web e Java - Instituto PROA</p>
-  <p>✔️ Formado em Técnico em Comércio - ETEC / Centro Paulo Souza</p>
+  <p>✔️ Formado em Técnico em Comércio - ETEC | Centro Paulo Souza</p>
   <br>
   <h3>💻 PRINCIPAIS TECNOLOGIAS 💻</h3>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
