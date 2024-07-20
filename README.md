@@ -7,6 +7,7 @@
 <div>
   <h3>👨‍💻 SOBRE </h3>
   <br>
+  <p>💬 Sou um entusiasta da tecnologia, motivado por desafios diários. Busco aprender continuamente para potencializar minhas habilidades e aplicá-las no meu dia a dia.</p>
   <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma [1/8] - FATEC Zona Leste</p>
   <p>✔️ Formado em Desenvolvimento Web e Java - Instituto PROA</p>
   <p>✔️ Formado em Técnico em Comércio - ETEC | Centro Paulo Souza</p>
