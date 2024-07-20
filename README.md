@@ -7,7 +7,7 @@
 <div>
   <h3>👨‍💻 SOBRE 👨‍💻</h3>
   <br>
-  <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma - FATEC Zona Leste</p>
+  <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma [1/8] - FATEC Zona Leste</p>
   <p>✔️ Formado em Desenvolvimento Web e Java - Instituto PROA</p>
   <p>✔️ Formado em Técnico em Comércio - ETEC | Centro Paulo Souza</p>
   <br>
