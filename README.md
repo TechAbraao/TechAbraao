@@ -5,14 +5,14 @@
 </div>
 
 <div>
-  <h3>👨‍💻 SOBRE 👨‍💻</h3>
+  <h3>👨‍💻 SOBRE </h3>
   <br>
   <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma [1/8] - FATEC Zona Leste</p>
   <p>✔️ Formado em Desenvolvimento Web e Java - Instituto PROA</p>
   <p>✔️ Formado em Técnico em Comércio - ETEC | Centro Paulo Souza</p>
   <br>
   <hr> 
-  <h3>💻 PRINCIPAIS TECNOLOGIAS 💻</h3>
+  <h3>💻 PRINCIPAIS TECNOLOGIAS </h3>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -23,7 +23,7 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />    
   <hr> 
-  <h3>💻 OUTRAS TECNOLOGIAS 💻</h3>   
+  <h3>💻 OUTRAS TECNOLOGIAS </h3>   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />    
@@ -32,7 +32,7 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
   <hr> 
-  <h3>⚒️ FERRAMENTAS DE TRABALHO ⚒️</h3> 
+  <h3>⚒️ FERRAMENTAS DE TRABALHO </h3> 
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
