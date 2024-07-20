@@ -8,10 +8,10 @@
   <h3>👨‍💻 SOBRE </h3>
   <br>
   <p>💬 Sou um entusiasta da tecnologia, motivado por desafios diários. Busco aprender continuamente para potencializar minhas habilidades e aplicá-las no meu dia a dia.</p>
-  <p>👨‍🎓 Cursando Desenvolvimento de Software e Multiplataforma [1/8] - FATEC Zona Leste</p>
-  <p>✔️ Formado em Desenvolvimento Web e Java - Instituto PROA</p>
-  <p>✔️ Formado em Técnico em Comércio - ETEC | Centro Paulo Souza</p>
-  <br>
+  <p>👨‍🎓 Cursando Tecnólogo em Desenvolvimento de Software Multiplataforma [1/8] <b>- FATEC Zona Leste</b></p>
+  <p>👨‍🎓 Cursando o Programa Oracle Next One (ONE)<b> - Alura + Oracle</b></p>
+  <p>✔️ Formado em Desenvolvimento Web e Java <b>- Instituto PROA</b></p>
+  <p>✔️ Técnico em Comércio <b>- ETEC | Centro Paulo Souza</b></p>
   <hr> 
   <h3>💻 PRINCIPAIS TECNOLOGIAS </h3>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
