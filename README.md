@@ -10,7 +10,7 @@
   <p>💬 Sou um entusiasta da tecnologia, motivado por desafios diários. Busco aprender continuamente para potencializar minhas habilidades e aplicá-las no meu dia a dia.</p>
   <p>👨‍🎓 Cursando Tecnólogo em Desenvolvimento de Software Multiplataforma [1/8] <b>- FATEC Zona Leste</b></p>
   <p>👨‍🎓 Cursando o Programa Oracle Next One (ONE)<b> - Alura + Oracle</b></p>
-  <p>✔️ Formado em Desenvolvimento Web e Java <b>- Instituto PROA</b></p>
+  <p>✔️ Formado em Desenvolvimento Web e Java <b>- Instituto PROA + Senac</b></p>
   <p>✔️ Técnico em Comércio <b>- ETEC | Centro Paulo Souza</b></p>
   <hr> 
   <h3>💻 PRINCIPAIS TECNOLOGIAS </h3>
