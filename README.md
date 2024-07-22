@@ -12,7 +12,7 @@
   <p>🎓 Cursando o Programa Oracle Next One (ONE)<b> - Alura + Oracle</b></p>
   <p>💼 Formado em Desenvolvimento Web e Java <b>- Instituto PROA | Senac</b></p>
   <p>💼 Técnico em Comércio <b>- ETEC | Centro Paulo Souza</b></p>
-  <h2 align="center">PRINCIPAIS TECNOLOGIAS</h2>
+  <h2 align="center">🛠 TECNOLOGIAS</h2>
   <div align="center">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -32,7 +32,7 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
   </div> 
-  <h2 align="center">FERRAMENTAS DE TRABALHO</h2> 
+  <h2 align="center">⚒️ FERRAMENTAS</h2> 
   <div align="center">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> 
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
