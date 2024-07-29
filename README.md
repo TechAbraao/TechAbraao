@@ -34,7 +34,7 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />  
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />    
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
-    
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />     
   </div> 
   <h2 align="center">⚒️ FERRAMENTAS</h2> 
   <div align="center">
