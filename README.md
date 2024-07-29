@@ -12,7 +12,7 @@
   <p>🎓 Cursando o Programa Oracle Next One (ONE) - <b><a href="https://www.oracle.com/br/education/oracle-next-education/"> Alura + Oracle</a></b></p>
   <p>💼 Formado em Desenvolvimento Web e Java -<b> <a href="https://www.proa.org.br/proprofissao/">Instituto PROA | Senac</a></b></p>
   <p>💼 Técnico em Comércio -<b> <a href="https://www.cps.sp.gov.br/cursos-etec/comercio/">ETEC | Centro Paulo Souza</a></b></p>
-  <h2 align="center">🛠 TECNOLOGIAS</h2>
+  <h2 align="center">🛠 TECNOLOGIAS + EXPERIÊNCIAS</h2>
   <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />   
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -22,11 +22,18 @@
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /> 
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />  
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />  
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <br>
+  <br>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />  
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />  
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original.svg" />    
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" />
+    
   </div> 
   <h2 align="center">⚒️ FERRAMENTAS</h2> 
   <div align="center">
