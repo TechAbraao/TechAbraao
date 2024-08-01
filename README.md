@@ -8,6 +8,7 @@
   <h2 align="center">🤔 SOBRE</h2>
   <br>
   <p>💬 Sou um entusiasta da tecnologia, motivado por desafios diários. Busco aprender continuamente para potencializar minhas habilidades e aplicá-las no meu dia a dia.</p>
+  <p>💡 Sólida experiência em Desenvolvimento Web utilizando tecnologias como React.js, JavaScript, TypeScript e TailwindCSS</p>
   <p>🎓 Cursando Tecnólogo em Desenvolvimento de Software Multiplataforma [1/8] -<b> <a href="https://www.fateczl.edu.br/cursos/desenvolvimento-de-software-multiplataforma">FATEC Zona Leste | Centro Paulo Souza</a></b></p>
   <p>🎓 Cursando o Programa Oracle Next One (ONE) - <b><a href="https://www.oracle.com/br/education/oracle-next-education/"> Alura + Oracle</a></b></p>
   <p>💼 Formado em Desenvolvimento Web e Java -<b> <a href="https://www.proa.org.br/proprofissao/">Instituto PROA | Senac</a></b></p>
