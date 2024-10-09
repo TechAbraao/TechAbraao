@@ -4,14 +4,14 @@
 - I'm currently studying __Multiplatform Software Development (FATEC-ZL).__ Furthermore, I am dedicating my efforts in the area of ​​data science and business intelligence.
 - Follow my projects and, if you want, you can give me suggestions!
 # 🛠 My Work Tools
-#### Programming Languages
+<h3>⚙️ Programming Languages</h3>
   <div align="start">
           <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
           <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
           <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
           <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   </div>
-#### Frameworks and Libraries
+<h3>⚙️ Frameworks and Libraries</h3>
 <div align="start">
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" /> 
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
@@ -21,12 +21,12 @@
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />     
 </div>
-#### Database's
+<h3>⚙️ Database's</h3>
 <div align="start">
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" />
 </div>
-#### OS
+<h3>⚙️ OS</h3>
 <div align="start">
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original-wordmark.svg" />
