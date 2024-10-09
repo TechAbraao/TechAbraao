@@ -29,4 +29,4 @@
 </div>
 
 ---
-- I also have experience with Excel and PowerBI for organizing data, spreadsheets and dashboards
+- I also have experience with __Excel__ and __PowerBI__ for organizing data, spreadsheets and dashboards
