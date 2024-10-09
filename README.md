@@ -29,3 +29,5 @@
 </div>
 
 ---
+- 
+I also have experience with Excel and PowerBI for organizing data, spreadsheets and dashboards
