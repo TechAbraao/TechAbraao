@@ -4,7 +4,7 @@
 - I am currently studying __Multiplatform Software Development (FATEC-ZL).__
 - Follow my projects and, if you want, you can give me suggestions!
 # 🛠 My Work Tools
-  <div align="start">
+  <div align="center">
           <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
           <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
           <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
