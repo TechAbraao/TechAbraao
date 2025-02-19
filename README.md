@@ -3,7 +3,6 @@
 - I am a technology enthusiast, motivated by daily challenges. I continually seek to learn to enhance my skills and apply them in my daily life.
 - I am currently studying __Multiplatform Software Development (FATEC-ZL).__
 - Follow my projects and, if you want, you can give me suggestions!
-- My favorite programming languages ​​are Python, Java and TypeScript
 <div align="center">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
