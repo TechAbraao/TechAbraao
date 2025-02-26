@@ -1,7 +1,4 @@
-# 🔥 Hello, Welcome To My Github!
-- My name is __Abraão V. S. Santos.__ I live in Brazil, São Paulo - SP.
-- I am a technology enthusiast, motivated by daily challenges. I continually seek to learn to enhance my skills and apply them in my daily life.
-- I am currently studying __Multiplatform Software Development (FATEC-ZL).__
+<h1 align="center">🔥 Olá! bem-vindo ao meu perfil no Github! </h1>
 <div align="center">
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" />
@@ -29,3 +26,14 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
 </div>
+<div align="center">
+<br>
+
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techabraao&show_icons=true&theme=dark&card_width=500px&line_height=28.9px&locale=pt-br)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabraao&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+
+</div>
+
+
