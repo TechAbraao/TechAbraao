@@ -31,7 +31,7 @@
 
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=techabraao&show_icons=true&theme=dark&card_width=200px&line_height=28.9px&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabraao&layout=donut&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techabraao&layout=donut&locale=pt-br&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
