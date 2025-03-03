@@ -6,6 +6,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-grey?style=for-the-badge&logo=SQLAlchemy&logoColor=red&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=red&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white&logoSize=30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Axios-purple?style=for-the-badge&logo=Axios&logoColor=white&logoSize=30">
