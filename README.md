@@ -21,6 +21,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman&logoColor=white&logoSize=30">
   <br>
+  <br>
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
