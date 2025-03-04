@@ -13,6 +13,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoSize=30">
+  <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=TailwindCSS&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white&logoSize=30">
   <img alt="Static Badge" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white&logoSize=30">
