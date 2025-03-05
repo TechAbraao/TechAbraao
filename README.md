@@ -34,9 +34,11 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white&logoSize=60">
   </div>
   <hr>
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+  <div align="center">
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />   
+    <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" />
+  </div>
 <h1></h1>
 <div align="center">
 <br>
