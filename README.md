@@ -1,4 +1,4 @@
-<h1 align="center">🔥 Olá! bem-vindo ao meu perfil no Github! </h1>
+<h1 align="center">Bem-vindo ao meu perfil do Github</h1>
 <div align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=white&logo=Python&logoSize=60">
   <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoSize=60"> 
