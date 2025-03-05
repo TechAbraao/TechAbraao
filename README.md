@@ -1,13 +1,13 @@
 <h1 align="center">Bem-vindo ao meu perfil do Github</h1>
 <div align="left">
-  <h3>< Linguagens de Programação /></h1>
+  <h3>Linguagens de Programação</h1>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=white&logo=Python&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=60">
   </div>
-  <h3>< Bibliotecas e Frameworks /></h3>
+  <h3>Bibliotecas e Frameworks</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoSize=60"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/Jinja2-black?style=for-the-badge&logo=Jinja&logoColor=white&logoSize=60">
@@ -18,11 +18,11 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoSize=60">
   </div>
-  <h3>< Cloud /></h3>
+  <h3>Cloud</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white&logoSize=60">
   </div>
-  <h3>< Outras ferramentas /></h3>
+  <h3>Outras ferramentas</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white&logoSize=60">
