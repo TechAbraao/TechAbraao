@@ -3,9 +3,9 @@
   <h3>Linguagens de Programação</h1>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=white&logo=Python&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=60">
   </div>
   <h3>Bibliotecas e Frameworks</h3>
   <div>
