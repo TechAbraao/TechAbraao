@@ -7,7 +7,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=60">
   </div>
-  <h3>Bibliotecas | Frameworks</h3>
+  <h3>Bibliotecas / Frameworks</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoSize=60"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/Jinja2-black?style=for-the-badge&logo=Jinja&logoColor=white&logoSize=60">
@@ -18,7 +18,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoSize=60">
   </div>
-  <h3>Ferramentas | Banco de Dados</h3>
+  <h3>Ferramentas de trabalho / Banco de Dados</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white&logoSize=60">
