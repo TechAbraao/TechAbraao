@@ -22,7 +22,7 @@
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white&logoSize=60">
   </div>
-  <h3>Outros</h3>
+  <h3>Outras ferramentas</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white&logoSize=60">
