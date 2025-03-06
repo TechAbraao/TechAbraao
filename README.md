@@ -15,8 +15,6 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js&logoSize=60">
   </div>
   <h3>Cloud</h3>
   <div>
