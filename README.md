@@ -22,6 +22,7 @@
        <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-black?style=for-the-badge&logo=Vue.js&logoColor=white&logoSize=60">  
        <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=white&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon&logoColor=white&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=white&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=60">  
   </div>
