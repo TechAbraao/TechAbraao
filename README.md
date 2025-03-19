@@ -2,45 +2,40 @@
 <div align="left">
   <h3>Linguagens de Programação</h1>
   <div>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=white&logo=Python&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoSize=60">
-    <br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=blue&logo=Python&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logo=openjdk&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=60">
   </div>
   <h3>Bibliotecas e Frameworks</h3>
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoSize=60"> 
-      <img alt="Static Badge" src="https://img.shields.io/badge/Jinja2-black?style=for-the-badge&logo=Jinja&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=SQLAlchemy&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Jinja2-black?style=for-the-badge&logo=Jinja&logoColor=red&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=SQLAlchemy&logoColor=red&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=yellow&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=g&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=orange&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs&logoColor=yellow&logoSize=60">
       <br>
-       <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=white&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=white&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=white&logoSize=60">  
-       <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=white&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=green&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon&logoColor=white&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=white&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=white&logoSize=60">  
-  </div>
-  <h3>Cloud</h3>
-  <div>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=white&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=blue&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-black?style=for-the-badge&logo=Bootstrap&logoColor=purple&logoSize=60">  
   </div>
   <h3>Outras ferramentas</h3>
   <div>
-      <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=orange&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=orange&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=blue&logoSize=60">
     <br>
-      <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Warp-black?style=for-the-badge&logo=Warp&logoColor=white&logoSize=60">
   </div>
   <hr>
