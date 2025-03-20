@@ -4,6 +4,7 @@
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=blue&logo=Python&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logo=openjdk&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logoColor=blue&logo=go&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=60">
   </div>
