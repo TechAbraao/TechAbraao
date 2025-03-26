@@ -37,7 +37,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB&logoColor=green&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Warp-black?style=for-the-badge&logo=Warp&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Shell Script-black?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=60">
   </div>
   <hr>
   <div align="center">
