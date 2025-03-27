@@ -2,11 +2,11 @@
 <div align="left">
   <h3>🐍 Programming Languages</h1>
   <div>
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-      <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+       <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=blue&logo=Python&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logoColor=blue&logo=go&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logo=openjdk&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=60">
   </div>
   <h3>📌 Libraries and Frameworks</h3>
   <div>
