@@ -30,6 +30,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20Web%20Services-black?style=for-the-badge&logo=Amazon%20Web%20Services&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=orange&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Git Workflow-black?style=for-the-badge&logo=git&logoColor=red&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=Linux&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-black?style=for-the-badge&logo=Ubuntu&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=SQLite&logoColor=blue&logoSize=60">
