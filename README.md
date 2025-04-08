@@ -39,6 +39,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=Postman&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Shell Script-black?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/UML2-black?style=for-the-badge&logo=uml&logoColor=orange&logoSize=60">
   </div>
   <hr>
   <div align="center">
