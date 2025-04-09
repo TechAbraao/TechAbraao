@@ -4,7 +4,6 @@
   <div>
        <img alt="Static Badge" src="https://img.shields.io/badge/Python-black?style=for-the-badge&logoColor=blue&logo=Python&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Golang-black?style=for-the-badge&logoColor=blue&logo=go&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/Java-black?style=for-the-badge&logoColor=white&logo=openjdk&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow&logoSize=60">
   </div>
@@ -19,7 +18,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs&logoColor=yellow&logoSize=60">
       <br>
        <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=green&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon&logoColor=white&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=blue&logoSize=60">
