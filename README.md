@@ -11,6 +11,7 @@
   <div>
       <img alt="Static Badge" src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask&logoSize=60"> 
       <img alt="Static Badge" src="https://img.shields.io/badge/Jinja2-black?style=for-the-badge&logo=Jinja&logoColor=red&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=SQLAlchemy&logoColor=red&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=yellow&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=g&logoSize=60">
@@ -18,7 +19,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs&logoColor=yellow&logoSize=60">
       <br>
        <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue&logoSize=60">
-       <img alt="Static Badge" src="https://img.shields.io/badge/Django-black?style=for-the-badge&logo=Django&logoColor=green&logoSize=60">
+       <img alt="Static Badge" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=green&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=Nodemon&logoColor=white&logoSize=60">
        <img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=TailwindCSS&logoColor=blue&logoSize=60">
