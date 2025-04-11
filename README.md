@@ -15,7 +15,7 @@
       <img alt="Static Badge" src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=SQLAlchemy&logoColor=red&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Pytest-black?style=for-the-badge&logo=Pytest&logoColor=yellow&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js&logoColor=g&logoSize=60">
-      <img alt="Static Badge" src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=Express&logoColor=orange&logoSize=60">
+      <img alt="Static Badge" src="https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=Express&logoColor=orange&logoSize=60">
       <img alt="Static Badge" src="https://img.shields.io/badge/EJS-black?style=for-the-badge&logo=ejs&logoColor=yellow&logoSize=60">
       <br>
        <img alt="Static Badge" src="https://img.shields.io/badge/Sequelize-black?style=for-the-badge&logo=Sequelize&logoColor=blue&logoSize=60">
