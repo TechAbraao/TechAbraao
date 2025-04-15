@@ -3,7 +3,7 @@
     <strong>About</strong><br>
     - Software Engineer with hands-on experience in full-stack development across diverse projects.<br>
     - Multiplatform Software Development student at FATEC-ZL.<br>
-    - My professional interests include software development, system architecture, and cybersecurity.
+    - My professional interests include software development and system architecture.
     <br>
     <br>
     <strong>Technical Skills</strong><br>
@@ -14,7 +14,7 @@
     <br>
     <strong>Contact</strong><br>
     - <a href="https://www.linkedin.com/in/abraaosvs/" target="_blank">LinkedIn</a><br>
-    - <a href="mailto:abraaosantos.contato@hotmail.com" target="_blank">Email</a>
+    - <a href="mailto:abraaosantos.contato@hotmail.com" target="_blank">E-mail</a>
   </samp>
 </p>
 
