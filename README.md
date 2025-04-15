@@ -7,7 +7,7 @@
     <br>
     <br>
     <strong>Technical Skills</strong><br>
-    - Languages: Python, Java, Golang, JavaScript/TypeScript.<br>
+    - Languages: Python, Java, Golang and JS/TS<br>
     - Frameworks & Libraries: Flask, Django, React, Node.js (Express.js, Sequelize, ...)<br>
     - Databases: MySQL, Oracle, MongoDB, SQLite.<br>
     - Tools & Platforms: AWS, Docker, Postman, Linux (Ubuntu), Git/GitHub, Shell Script.<br>
