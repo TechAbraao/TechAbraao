@@ -6,11 +6,16 @@
     - My professional interests include software development and system architecture.
     <br>
     <br>
-    <strong>Technical Skills</strong><br>
-    - Languages: Python, Golang, Java and JavaScript.<br>
-    - Frameworks & Libraries: Flask, Django, Gin, React, Node.js (Express.js, Sequelize, ...)<br>
-    - Databases: MySQL, Oracle, MongoDB, SQLite.<br>
-    - Tools & Platforms: AWS, Docker, Postman, Linux (Ubuntu), Git/GitHub, Shell Script.<br>
+    <strong>Technical skills and interests</strong><br>
+    - Python | Flask | Django | FastAPI | Jinja2 | SQLAlchemy.<br>
+    - JavaScript (DOM Manipulation, Events, Node.js Ecosystem, ...) | React (HTML, CSS) | Bootstrap.<br>
+    - Golang | Java.<br>
+    - SQL | MySQL | MongoDB | SQLite.<br>
+    - AWS | Docker | Postman | Linux (Ubuntu) | APIs RESTful | Git/GitHub | Shell Script.<br>
+    <br>
+    <strong>IDEs</strong><br>
+    - PyCharm | WebStorm | IntelliJ | VSCode.
+    <br>
     <br>
     <strong>Contact</strong><br>
     - <a href="https://www.linkedin.com/in/abraaosvs/" target="_blank">LinkedIn</a><br>
