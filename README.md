@@ -7,7 +7,7 @@
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
-    - Python | Flask | Django | FastAPI | Jinja2 | SQLAlchemy.<br>
+    - Python | Flask | Django | Jinja2 | SQLAlchemy.<br>
     - JavaScript (DOM Manipulation, Events, Node.js Ecosystem, ...) | React (HTML, CSS) | Bootstrap.<br>
     - Golang | Java.<br>
     - SQL | MySQL | MongoDB | SQLite.<br>
