@@ -8,7 +8,7 @@
     <br>
     <strong>Technical skills and interests</strong><br>
     - Python | Flask | Django | Jinja2 | SQLAlchemy.<br>
-    - JavaScript (DOM Manipulation, Events, Node.js Ecosystem, ...) | React (HTML, CSS) | Bootstrap.<br>
+    - JavaScript (JQuery, Node.js Ecosystem, ...) | React (HTML, CSS) | Bootstrap.<br>
     - Golang | Java.<br>
     - SQL | MySQL | MongoDB | SQLite.<br>
     - AWS | Docker | Postman | Linux (Ubuntu) | APIs RESTful | Git/GitHub | Shell Script.<br>
