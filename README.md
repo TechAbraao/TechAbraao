@@ -8,13 +8,13 @@
     <br>
     <strong>Technical skills and interests</strong><br>
     - Python | Flask | Django | Pytest/Unittest | Jinja2 | SQLAlchemy.<br>
-    - JavaScript (JQuery, Node.js Ecosystem, ...) | React (HTML, CSS) | Bootstrap.<br>
+    - JavaScript (JQuery, React, Axios, Express.js, Node.js ecosystem) | HTML, CSS & Bootstrap.<br>
     - Golang | Java.<br>
-    - SQL | MySQL | MongoDB | SQLite.<br>
-    - AWS | Docker | Postman | Linux (Ubuntu) | APIs RESTful | Git/GitHub | Shell Script.<br>
+    - SQL (MySQL, SQLite) | NoSQL (MongoDB).<br>
+    - AWS | Git/Github | Docker | CI/CD (CircleCI) | APIs RESTful | Linux (Ubuntu OS).<br>
     <br>
     <strong>IDEs</strong><br>
-    - PyCharm | WebStorm | IntelliJ | VSCode.
+    - PyCharm | IntelliJ | VSCode.
     <br>
     <br>
     <strong>Contact</strong><br>
