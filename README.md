@@ -1,9 +1,9 @@
 <p>
   <samp>
     <strong>About</strong><br>
-    - Software Engineer with hands-on experience in full-stack development across diverse projects.<br>
+    - Software Engineer with hands-on experience in full-stack development and a strong focus on data-driven solutions.<br>
     - Multiplatform Software Development student at FATEC-ZL.<br>
-    - My professional interests include software development and system architecture.
+    - I'm professionally interested in software development, system architecture, and data engineering..
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
