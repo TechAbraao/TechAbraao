@@ -1,20 +1,21 @@
 <p>
   <samp>
     <strong>About</strong><br>
-    - Software Engineer with hands-on experience in full-stack development and a strong focus on data-driven solutions.<br>
+    - Full-Stack Software Engineer with practical, hands-on experience in building scalable web applications.<br>
     - Multiplatform Software Development student at FATEC-ZL.<br>
-    - I'm professionally interested in software development, system architecture, and data engineering.
+    - Passionate about software engineering and deeply interested in software architecture and system design.
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
-    - Python | Flask | Django | Pytest/Unittest | Jinja2 | SQLAlchemy.<br>
-    - JavaScript (JQuery, React, Axios, Express.js, Node.js ecosystem) | HTML, CSS & Bootstrap.<br>
-    - Golang | Java.<br>
+    - Python | Flask | Django | Pytest/Unittest | SQLAlchemy.<br>
+    - JavaScript | Node.js | Express.js | JQuery | React | HTML, CSS & Bootstrap.<br>
+    - Golang.<br>
     - SQL (MySQL, SQLite) | NoSQL (MongoDB).<br>
     - AWS | Git/Github | Docker | CI/CD (CircleCI) | APIs RESTful | Linux (Ubuntu OS).<br>
+    - Design Patterns, Test-Driven Development and Behavior-Driven Development.<br>
     <br>
     <strong>IDEs</strong><br>
-    - PyCharm | IntelliJ | VSCode.
+    - PyCharm | VSCode.
     <br>
     <br>
     <strong>Contact</strong><br>
