@@ -15,7 +15,7 @@
     - Design Patterns, Test-Driven Development and Behavior-Driven Development.<br>
     <br>
     <strong>IDEs</strong><br>
-    - PyCharm | VSCode.
+    - PyCharm | GoLand | VSCode.
     <br>
     <br>
     <strong>Contact</strong><br>
