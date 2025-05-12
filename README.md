@@ -7,7 +7,7 @@
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
-    - Python | Flask | Django | Pytest/Unittest | SQLAlchemy.<br>
+    - Python | Flask | FastAPI | Pytest/Unittest | SQLAlchemy.<br>
     - JavaScript | Node.js | Express.js | JQuery | React | HTML, CSS & Bootstrap.<br>
     - Golang.<br>
     - SQL (MySQL, SQLite) | NoSQL (MongoDB).<br>
