@@ -7,12 +7,12 @@
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
-    - Python | Flask | FastAPI | Pytest/Unittest | SQLAlchemy.<br>
-    - JavaScript | Node.js | Express.js | JQuery | React | HTML, CSS & Bootstrap.<br>
-    - Golang.<br>
-    - SQL (MySQL, SQLite) | NoSQL (MongoDB).<br>
-    - AWS | Git/Github | Docker | CI/CD (CircleCI) | APIs RESTful | Linux (Ubuntu OS).<br>
-    - Design Patterns, Test-Driven Development and Behavior-Driven Development.<br>
+    - Python | Flask | SQLAlchemy | FastAPI | Pydantic | Unittest. <br>
+    - JavaScript/TypeScript | Node.js | Express.js | JQuery | React | HTML, CSS & Bootstrap. <br>
+    - Golang. <br>
+    - SQL (MySQL, SQLite) | NoSQL (MongoDB). <br>
+    - AWS | Git/Github | Docker | CI/CD (CircleCI) | APIs RESTful | Linux (Ubuntu OS). <br>
+    - Design Patterns, Test-Driven Development and Behavior-Driven Development. <br>
     <br>
     <strong>IDEs</strong><br>
     - PyCharm | GoLand | VSCode.
