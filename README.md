@@ -1,18 +1,15 @@
 <p>
   <samp>
     <strong>About</strong><br>
-    - Full-Stack Software Engineer with practical, hands-on experience in building scalable web applications.<br>
-    - Multiplatform Software Development student at FATEC-ZL.<br>
+    - Software Engineer with experience in diverse projects involving both back-end and front-end development.<br>
+    - Currently pursuing a degree in Multiplatform Software Development (DSM) at FATEC Zona Leste.<br>
     - Passionate about software engineering and deeply interested in software architecture and system design.
     <br>
     <br>
     <strong>Technical skills and interests</strong><br>
-    - Python | Flask | SQLAlchemy | FastAPI | Pydantic | Unittest. <br>
-    - JavaScript/TypeScript | Node.js | Express.js | JQuery | React | HTML, CSS & Bootstrap. <br>
-    - Golang. <br>
-    - SQL (MySQL, SQLite) | NoSQL (MongoDB). <br>
-    - AWS | Git/Github | Docker | CI/CD (CircleCI) | APIs RESTful | Linux (Ubuntu OS). <br>
-    - Design Patterns, Test-Driven Development and Behavior-Driven Development. <br>
+    - Python | Golang | JavaScript/TypeScript | Flask | FastAPI | SQLAlchemy | Node.js | Express.js <br>
+    - JQuery | React | Axios | TailwindCSS | HTML, CSS | AWS | MySQL | MongoDB <br>
+    - APIs RESTful | Git | Docker | CircleCI | Linux <br>
     <br>
     <strong>IDEs</strong><br>
     - PyCharm | GoLand | VSCode.
