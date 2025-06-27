@@ -2,6 +2,7 @@
   <samp>
     <strong>About</strong><br>
     • I'm a Software Engineer with experience in software development across a variety of projects, working with Python, Java, Go and JavaScript. Currently, I'm pursuing a degree in Multiplatform Software Development (DSM) at FATEC Zona Leste and hold a certification in Java Web Development from Senac Lapa Tito.<br>
+    <br>
     • I'm passionate about software engineering and system architecture. My main focus is back-end development, with hands-on experience building APIs and services using Python (Flask, FastAPI) and Java (Spring Boot). I also work with JavaScript for web development (React, Vue.js), especially when building or integrating front-end interfaces (UI/UX).<br>
     <br>
     <strong>Stack</strong><br>
