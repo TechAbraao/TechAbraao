@@ -7,7 +7,7 @@
 + Multiplataform Software Development Student at @ Fatec Zona Leste
 + Java Web Development certification from @ Senac Lapa Tito
 
-- Tech Stack
+- Tech Stack:
 + Programming Languages: Python | Java | Go | TypeScript
 + Back-end: Spring Boot | Flask | FastAPI
 + Front-end: React/Next.js | TailwindCSS | Jinja2 | Axios | jQuery 
