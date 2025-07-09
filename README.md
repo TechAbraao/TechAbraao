@@ -2,7 +2,7 @@
 @@ Software Engineer @@
 
 - About me:
-+ I'm passionate about software engineering and system architecture, with a strong emphasis on full-stack development.
++ I'm passionate about software engineering and system architecture.
 + Software Engineering Intern at @ authcube.
 + Multiplataform Software Development Student at @ Fatec Zona Leste.
 + Java Web Development certification from @ Senac Lapa Tito.
