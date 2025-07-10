@@ -1,4 +1,4 @@
-<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=linux" border="0" style="width:68px;" />
+<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=linux" border="0" style="width:66px;" />
 
 ```css
 ┌[techabraao@git]-(~)
