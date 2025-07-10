@@ -3,7 +3,7 @@
 └> mefetch
 ```
 
-<div style="display:block;text-align:left"><img align="left" src="https://skillicons.dev/icons?i=java" border="0" style="width:175px;" />
+<div style="display:block;text-align:left"><img align="left" src="https://skillicons.dev/icons?i=java" border="0" style="width:165px;" />
          
 
     
