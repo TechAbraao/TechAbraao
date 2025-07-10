@@ -1,3 +1,5 @@
+<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=linux" border="0" style="width:70px;" />
+
 ```css
 ┌[techabraao@git]-(~)
 └> mefetch
