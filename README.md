@@ -30,5 +30,5 @@ Programming Languages: ["Python", "Java", "Go", "TypeScript"]
 Back-end: ["Spring Book", "Flask", "FastAPI"]
 Front-end: ["React/Next.js", "TailwindCSS", "Jinja2", "Axios", "jQuery"]
 Databases: ["MySQL", "PostgreSQL", "Redis"]
-More Tools: ["AWS", "Maven", "Docker", "ORMs", "Makefile", "Linux", "CI/CD", "Git/GitHub"]
+More Tools: ["AWS", "Docker", "ORMs", "Linux/Bash", "CI/CD", "Git"]
 ```
