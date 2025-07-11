@@ -1,5 +1,5 @@
-<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=linux" border="0" style="width:66px;" />
-<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=go" border="0" style="width:66px;" />
+<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=docker" border="0" style="width:66px;" />
+<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=aws" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=typescript" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=spring" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=flask" border="0" style="width:66px;" />
