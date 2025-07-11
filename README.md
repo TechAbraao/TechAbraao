@@ -20,7 +20,7 @@
 
 - About me:
 Hello, my name is Abraão Santos
-I'm passionate about software engineering, system architecture, and cybersecurity
+I'm passionate about software engineering and system architecture
 Software Engineering Intern at @ authcube
 Multiplataform Software Development Student at @ Fatec Zona Leste
 Java Web Development certification from @ Senac Lapa Tito
