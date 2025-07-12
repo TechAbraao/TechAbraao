@@ -34,7 +34,7 @@ Java Web Development certification from @ Senac Lapa Tito
 @@ Development Tools @@
 
 + Tech Stack:
-Programming Languages: ["Python", "Java", "Go", "TypeScript"]
+Programming Languages: ["Python", "Java", "TypeScript"]
 Back-end: ["Spring Boot", "Flask", "FastAPI"]
 Front-end: ["React/Next.js", "TailwindCSS", "Jinja2", "Axios", "jQuery"]
 Databases: ["MySQL", "PostgreSQL", "Redis"]
