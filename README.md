@@ -1,6 +1,6 @@
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=docker" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=aws" border="0" style="width:66px;" />
-<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=golang" border="0" style="width:66px;" />
+<div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=typescript" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=spring" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=flask" border="0" style="width:66px;" />
 <div style="display:block;text-align:right"><img align="right" src="https://skillicons.dev/icons?i=react" border="0" style="width:66px;" />
@@ -34,7 +34,7 @@ Java Web Development certification from @ Senac Lapa Tito
 @@ Development Tools @@
 
 + Tech Stack:
-Programming Languages: ["Python", "Java", "Golang", "TypeScript"]
+Programming Languages: ["Python", "Java", "TypeScript"]
 Back-end: ["Spring Boot", "Flask", "FastAPI"]
 Front-end: ["React/Next.js", "TailwindCSS", "Jinja2", "Axios", "jQuery"]
 Databases: ["MySQL", "PostgreSQL", "Redis"]
